@@ -1,2 +1,2 @@
 # PizzeriaCDV
-Zawiera dokumenty i pliki niezbędne do stworzenia najlepszej pizzerii w Poznaniu. ten plik należy do galęzi main
+To jest strona naszej pizzerii CDV.
