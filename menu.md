@@ -51,6 +51,7 @@
 | 3.  | Grecja     | ogórek, pomidorki cherry, czerwona cebula, ser feta, czarne oliwki      | 28 zł |
 
 ## Dodatki
+<img src="Katalog zdjec pizzeriaCDV/lettuce-on-a-pizza.jpg" width="300">
 
 | Lp. | DODATKI    | CENA |
 | --- | ---------- | ---- |
