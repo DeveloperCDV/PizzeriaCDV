@@ -53,8 +53,8 @@
 ## Dodatki
 <img src="Katalog zdjec pizzeriaCDV/lettuce-on-a-pizza.jpg" width="300">
 
-| Lp. | DODATKI    | CENA |
-| --- | ---------- | ---- |
-| 1.  | Ser        | 3 zł |
-| 2.  | Kurczak    | 5 zł |
-| 3.  | Brokuły    | 4 zł |
+| Lp. | DODATKI    | CENA  |
+| --- | ---------- | ----- |
+| 1.  | Ser        | 3 zł  |
+| 2.  | Kurczak    | 5 zł  |
+| 3.  | Brokuły    | 4 zł  |
