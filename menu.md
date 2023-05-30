@@ -24,28 +24,36 @@
 
 <img src="Katalog zdjec pizzeriaCDV/calzone_thecozyapron_1.jpg" width="300">
 
-| Lp. | PIZZA      | SKŁADNIKI                                       | ONE SIZE |
-| --- | ---------- | ------------------------------------------------| -------- |
-| 1.  | Margeritta | sos pomidorowy, ser, oregano                    | 11 zł    |
-| 2.  | Prosciutto | sos pomidorowy, ser, szynka, oregano            | 12 zł    |
-| 3.  | Funghi     | sos pomidorowy, ser, pieczarki, cebula, oregano | 12 zł    |
+| Lp. | PIZZA      | SKŁADNIKI                                       | CENA  |
+| --- | ---------- | ------------------------------------------------| ----- |
+| 1.  | Margeritta | sos pomidorowy, ser, oregano                    | 11 zł |
+| 2.  | Prosciutto | sos pomidorowy, ser, szynka, oregano            | 12 zł |
+| 3.  | Funghi     | sos pomidorowy, ser, pieczarki, cebula, oregano | 12 zł |
 
 ## Makarony
 
 <img src="Katalog zdjec pizzeriaCDV/one-pot-cheesy-mushroom-spinach--ground-beef-pasta-detail-f51c2077.jpg" width="300">
 
-| Lp. | MAKARON    | SKŁADNIKI                                      | ONE SIZE |
-| --- | ---------- | ---------------------------------------------- | -------- |
-| 1.  | Spinch     | makaron penne, ser, szpinak                    | 20 zł    |
-| 2.  | Fun guy    | makaron fusilli, pieczarki, rukola, parmezan   | 24 zł    |
-| 3.  | Salomon    | makaron macaroni, łosoś, suszone pomidory      | 30 zł    |
+| Lp. | MAKARON    | SKŁADNIKI                                      | CENA  |
+| --- | ---------- | ---------------------------------------------- | ----- |
+| 1.  | Spinch     | makaron penne, ser, szpinak                    | 20 zł |
+| 2.  | Fun guy    | makaron fusilli, pieczarki, rukola, parmezan   | 24 zł |
+| 3.  | Salomon    | makaron macaroni, łosoś, suszone pomidory      | 30 zł |
 
 ## Sałatki Vege
 
 <img src="Katalog zdjec pizzeriaCDV/be602b1e019adfc1c4daf1e80c781b2c.jpg" width="300">
 
-| Lp. | SAŁATKA    | SKŁADNIKI                                                               | ONE SIZE |
-| --- | ---------- | ----------------------------------------------------------------------- | -------- |
-| 1.  | Spinch     | rukola, szpinak, pomidorki cherry, mini mozzarela                       | 18 zł    |
-| 2.  | Avocado    | rukola, awokado, pomidorki cherry, nasiona słonecznika, orzechy włoskie | 25 zł    |
-| 3.  | Grecja     | ogórek, pomidorki cherry, czerwona cebula, ser feta, czarne oliwki      | 28 zł    |
+| Lp. | SAŁATKA    | SKŁADNIKI                                                               | CENA  |
+| --- | ---------- | ----------------------------------------------------------------------- | ----- |
+| 1.  | Spinch     | rukola, szpinak, pomidorki cherry, mini mozzarela                       | 18 zł |
+| 2.  | Avocado    | rukola, awokado, pomidorki cherry, nasiona słonecznika, orzechy włoskie | 25 zł |
+| 3.  | Grecja     | ogórek, pomidorki cherry, czerwona cebula, ser feta, czarne oliwki      | 28 zł |
+
+## Dodatki
+
+| Lp. | DODATKI    | CENA |
+| --- | ---------- | ---- |
+| 1.  | Ser        | 3 zł |
+| 2.  | Kurczak    | 5 zł |
+| 3.  | Brokuły    | 4 zł |
