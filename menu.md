@@ -58,3 +58,15 @@
 | 1.  | Ser        | 3 zł  |
 | 2.  | Kurczak    | 5 zł  |
 | 3.  | Brokuły    | 4 zł  |
+
+## Napoje
+<img src="Katalog zdjec pizzeriaCDV/persian-drinks-750x567.jpg" width="300">
+
+| Lp. | NAPÓJ            | 250 ml | 400 ml |
+| --- | ---------------- | ------ | ------ |
+| 1.  | Woda             | -      | -      |
+| 2.  | Coca-Cola        | 3 zł   | 4 zł   |
+| 3.  | Sprite           | 3 zł   | 4 zł   |
+| 4.  | Mirinda          | 3 zł   | 4 zł   |
+| 5.  | Sok jabłkowy     | 3 zł   | 4 zł   |
+| 5.  | Sok pomarańczowy | 3 zł   | 4 zł   |
