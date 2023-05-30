@@ -12,6 +12,8 @@ Bartosz Nowak
 
 ## Obsługa
 
+Krzysztof Zieliński
+
 ## Dostawca
 
 Adam Wysocki jr.
