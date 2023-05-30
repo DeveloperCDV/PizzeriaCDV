@@ -2,6 +2,8 @@
 
 ## Ciasto na pizzę - 2 sztuki
 
+<img src="Katalog zdjec pizzeriaCDV/rece-szefa-kuchni-wyrabiaja-ciasto-z-maki.jpg" width="300">
+
 | SKŁADNIK       | ILOŚĆ        |
 | -------------- | ------------ |
 | świeże drożdże | 25 g         |
