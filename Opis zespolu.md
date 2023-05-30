@@ -15,3 +15,5 @@ Bartosz Nowak
 ## Dostawca
 
 ## Grafik
+
+Hanna Krystkiewicz
