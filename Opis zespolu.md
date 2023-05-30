@@ -17,3 +17,5 @@ Bartosz Nowak
 Adam Wysocki jr.
 
 ## Grafik
+
+Hanna Krystkiewicz
