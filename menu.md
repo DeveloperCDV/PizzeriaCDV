@@ -59,6 +59,18 @@
 | 2.  | Kurczak    | 5 zł  |
 | 3.  | Brokuły    | 4 zł  |
 
+## Sosy
+<img src="Katalog zdjec pizzeriaCDV/sauces-new.jpg" width="300">
+
+| Lp. | SOS         | CENA |
+| --- | ----------- | ---- |
+| 1.  | Guacamolle  | 2 zł |
+| 2.  | Musztardowy | 2 zł |
+| 3.  | Ketchup     | 2 zł |
+| 4.  | Barbeque    | 2 zł |
+| 5.  | Czosnkowy   | 2 zł |
+| 6.  | Mango       | 2 zł |
+
 ## Napoje
 <img src="Katalog zdjec pizzeriaCDV/persian-drinks-750x567.jpg" width="300">
 
@@ -69,4 +81,4 @@
 | 3.  | Sprite           | 3 zł   | 4 zł   |
 | 4.  | Mirinda          | 3 zł   | 4 zł   |
 | 5.  | Sok jabłkowy     | 3 zł   | 4 zł   |
-| 5.  | Sok pomarańczowy | 3 zł   | 4 zł   |
+| 6.  | Sok pomarańczowy | 3 zł   | 4 zł   |
